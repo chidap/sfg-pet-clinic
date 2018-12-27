@@ -48,7 +48,7 @@
 	<scm>
 		<connection>scm:git:https://chidap:chids123@github.com/sfg-pet-clinic.git</connection>
 		<developerConnection>scm:git:https://chidap:chids123@github.com/sfg-pet-clinic.git</developerConnection>
-
+		<tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
